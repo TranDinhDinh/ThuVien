@@ -1,0 +1,11 @@
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\trandinh\OneDrive\Documents\Hướng đối tượng OOP\Quản Lý Thư Viện(Sửa lại)\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonTra.resources
